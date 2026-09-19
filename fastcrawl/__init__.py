@@ -17,7 +17,7 @@ from typing import Any
 
 import httpx
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 DEFAULT_BASE_URL = "https://fastcrawl.net"
 _UA = f"fastcrawl-python/{__version__}"
